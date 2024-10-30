@@ -1,0 +1,21 @@
+p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+div {
+    overflow: hidden;
+    border: 1px solid #000;
+}
+
+span {
+    margin: 15px;
+    display: inline-block;
+}
+
+img {
+    margin: 15px;
+    border: 10px solid cyan;
+    width: 55px;
+    align-items: center;
+}

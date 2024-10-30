@@ -1,0 +1,64 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    background: red;
+    color: yellow;
+}
+
+a:hover {
+    background: yellow;
+    color: red;
+}
+
+ul {
+    list-style-type: none;
+    display: inline;
+}
+
+li {
+    display: inline-block;
+}
+
+nav {
+    background-color: green;
+    color: #ffffff;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+nav a:hover {
+    color: #fff;
+    background-color: transparent;
+}
+
+div {
+    background-color: green;
+}
+
+.option1 {
+    background: #b10f2f;
+    color: blue;
+    font-size: italic;
+}
+
+.option2 {
+    background: rgba(183, 236, 25);
+}
+
+#parap {
+    color: black;
+}
